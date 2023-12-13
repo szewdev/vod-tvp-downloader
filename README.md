@@ -15,6 +15,16 @@ Uruchomienie skryptu odbywa się poprzez wywołanie polecenia
 
 `./tvp_downloader.sh ADRES_URL [JAKOSC]`
 
+## SKRYPT PYTHON (tvp_downloader.py)
+Wymagane są zainstalowane następujące moduły:
+- requests
+
+### Użycie skryptu
+
+Uruchomienie skryptu odbywa się poprzez wywołanie polecenia
+
+`python3 tvp_downloader.py ADRES_URL [JAKOSC]`
+
 ## SKRYPT POWERSHELL (tvp_downloader.ps1)
 
 ### Użycie skryptu
