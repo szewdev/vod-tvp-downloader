@@ -1,5 +1,5 @@
 # vod-tvp-downloader
-Skrypty umożliwiające pobieranie plików wideo z serwisu tvp.vod.pl
+Skrypty umożliwiające pobieranie plików wideo z serwisu vod.tvp.pl
 
 ## Skrypt bash (tvp_downloader.sh)
 Wymagane są zainstalowane następujące pakiety:
